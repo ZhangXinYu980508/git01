@@ -2,3 +2,10 @@
 自检,检测电压是否在15V左右（DIY）
 TDA1521 TDA2030单电源供电使用
 采用贴片0805封装
+按键操作可不体现
+http://bbs.hifidiy.net/thread-703549-1-1.html
+TDA1521的论坛网址
+http://www.elecfans.com/video/gongfang/200604151680.html
+电子发烧友网站
+http://www.elecfans.com/yuanqijian/jiekou/200803298559.html
+同上
